@@ -1,0 +1,2 @@
+<!--packageComponent/pages/view/springboot/springboot.wxml-->
+<web-view src="https://mp.weixin.qq.com/s?__biz=Mzg4NDcyODE2MQ==&mid=2247483744&idx=1&sn=1f0b593eea3831f91df28f6643cb4978&chksm=cfb2896ef8c500789ed3e03318a674b56c5b3b6a22f189b8a2a7a1cd3797e36eae22c8d0bc2c#rd"></web-view>

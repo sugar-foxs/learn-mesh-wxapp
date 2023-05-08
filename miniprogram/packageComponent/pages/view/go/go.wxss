@@ -1,0 +1,8 @@
+/*!
+ * WeUI v2.3.0 (https://github.com/weui/weui-wxss)
+ * Copyright 2020 Tencent, Inc.
+ * Licensed under the MIT license
+ */
+/* @import '../components/weui-wxss/dist/style/weui.wxss'; */
+
+@import '../common.wxss'

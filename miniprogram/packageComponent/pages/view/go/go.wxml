@@ -1,0 +1,19 @@
+<view class="page" data-weui-theme="{{theme}}">
+    <view class="page__bd">
+        <view class="weui-panel weui-panel_access">
+            <view class="weui-panel__bd">
+              <block wx:for-items="{{list}}">
+                <navigator url="{{item.page}}" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+                    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+                        <image class="weui-media-box__thumb" src="{{item.image}}" />
+                    </view>
+                    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+                        <view class="weui-media-box__title">{{item.title}}</view>
+                        <view class="weui-media-box__desc">{{item.url}}</view>
+                    </view>
+                </navigator>
+              </block>
+            </view>
+        </view>
+    </view>
+</view>
