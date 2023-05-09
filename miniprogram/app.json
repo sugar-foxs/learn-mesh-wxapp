@@ -12,7 +12,8 @@
         "pages/view/python/python",
         "pages/view/topgoer/topgoer",
         "pages/view/gopl/gopl",
-        "pages/view/spring/spring"
+        "pages/view/spring/spring",
+        "pages/view/goCodeRule/goCodeRule"
       ]
     }
   ],

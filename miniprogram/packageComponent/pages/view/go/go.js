@@ -14,6 +14,12 @@ Page({
         url: 'https://books.studygolang.com/gopl-zh/',
         image: '../../../../image/gopl.jpeg'
       },
+      {
+        page: '../goCodeRule/goCodeRule',
+        title: 'Uber 开源的《Go 语言编码规范》',
+        url: 'https://learnku.com/go/wikis/38426#4ac600',
+        image: '../../../../image/goCodeRule.jpg'
+      }
     ]
   },
   onLoad() {
